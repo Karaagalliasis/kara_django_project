@@ -1,0 +1,1 @@
+# kara_django_project
